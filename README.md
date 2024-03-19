@@ -16,7 +16,7 @@ MassCSS server is a project to run ["MassCCS"](https://github.com/cces-cepid/mas
 
 
 
-Currently available on AWS cloud for test in this link: 
+Currently available on AWS cloud for test in this link: ["13.36.163.40"](13.36.163.40)
 
 If you use MassCCS server in your research please, cite the following papers:
 
